@@ -1,0 +1,65 @@
+.container{
+    justify-content: flex-start;
+    
+}
+.perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+}
+
+.elemento1{
+    justify-content: flex-start;
+    width: 150px;
+    height: 150px;
+    background-color:antiquewhite;
+    border: 1px;
+}
+.elemento2{
+    width:  150px;
+    height:  200px;
+    background-color: antiquewhite;
+    border: 1px ;
+}
+.elemento3{
+    width:  150px;
+    height: 150px;
+    background-color: antiquewhite;
+    border: 1px ;
+}
+
+.elemento4{
+    width: 150px;
+    height: 150px;
+    background-color: antiquewhite;
+    border: 1px ;
+}
+
+.elemento5{
+    width: 150px;
+    height: 150px;
+    background-color: antiquewhite;
+    border: 1px ;
+}
+.elemento6{
+    width: 150px;
+    height: 150px;
+    background-color: antiquewhite;
+    border: 1px ;
+}
+
+
+.end{
+    width: 15px;
+    height:15px
+    ;
+}
+.whats{
+    width: 25px;
+    height: 25px;
+}
+.email{
+    width: 15px;
+    height: 15px;
+    font-size:0%;
+}
